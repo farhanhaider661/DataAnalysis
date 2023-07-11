@@ -29,3 +29,5 @@ After conducting EDA, we draw conclusions based on the patterns and insights dis
 # Step 5: Communicating Results
 
 The final step involves effectively communicating the results of your analysis to relevant stakeholders. This may include creating reports, visualizations, or presentations that convey the key findings, insights, and recommendations derived from the data analysis process.
+# Note: 
+If you cannot see any code inside the file, like unable to render code, copy the url and paste it into nbviewer, and then you can see the code.
